@@ -6,8 +6,8 @@
 <p align="center">
     <img 
     src="https://user-images.githubusercontent.com/31289283/158382168-7d2e2a7d-5f2d-4844-a413-04d671e4d5b8.png" 
-    height=35% 
-    width=35%
+    height=60% 
+    width=60%
     >
 </p>
 
